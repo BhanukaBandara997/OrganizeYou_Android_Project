@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Organize You</string>
+    <string name="delete_all_item">Delete All</string>
+    <string name="my_cart">My Cart</string>
+    <string name="create_Appointment">Create Appointment</string>
+    <string name="delete">Delete Appointment</string>
+    <string name="delete_list">Delete Appointment List</string>
+    <string name="edit">Edit Appointment</string>
+    <string name="edit_list">Edit Appointment List</string>
+    <string name="move">Move Appointment</string>
+    <string name="move_list">Move Appointment List</string>
+    <string name="search_list">Search Appointment</string>
+    <string name="synonyms_title">Synonym Words</string>
+
+    <!-- SEARCH ITEM-->
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+
+    <string name="appointment_title">Appointment Title:</string>
+    <string name="appointment_time">Appointment Time:</string>
+    <string name="appointment_details">Appointment Details:</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Main Interface</string>
+    <string name="slide_1_desc">User friendly interface to interact with</string>
+
+    <string name="slide_2_title">Create Your Own Appointments</string>
+    <string name="slide_2_desc">Easy to create appointments and highlight a word to get synonyms</string>
+
+    <string name="slide_3_title">Swipe Feature And Move Appointments</string>
+    <string name="slide_3_desc">User friendly feature to interact with</string>
+
+    <string name="slide_4_title">Search Appointment Feature</string>
+    <string name="slide_4_desc">Easy to search your appointments</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
